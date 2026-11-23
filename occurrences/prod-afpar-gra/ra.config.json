@@ -125,6 +125,12 @@
       "image": "logoLAVALI.png",
       "video": "logoLAVALI.mp4",
       "titre": "Logo Lavali"
+    },
+    {
+      "id": "novValeursAFPAR",
+      "image": "novValeursAFPAR.png",
+      "video": "novValeursAFPAR.mp4",
+      "titre": "Nos Valeurs AFPAR"
     }
   ]
 }

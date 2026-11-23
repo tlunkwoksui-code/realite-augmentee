@@ -104,6 +104,17 @@
       "boucle": false,
       "quandAffichePerdue": "pause",
       "calage": "ajuster"
+    },
+    {
+      "id": "novValeursAFPAR",
+      "titre": "Nos Valeurs AFPAR",
+      "video": "videos/novValeursAFPAR.mp4",
+      "vignette": "img/novValeursAFPAR.jpg",
+      "ratioImage": 1.4186,
+      "ratioVideo": 1.4138,
+      "boucle": false,
+      "quandAffichePerdue": "pause",
+      "calage": "ajuster"
     }
   ]
 }
